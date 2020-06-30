@@ -53,7 +53,7 @@ namespace Animalese_Generator
 
         private void generateButton_Click(object sender, EventArgs e)
         {
-            string projectPath = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName;
+            string projectPath = Directory.GetParent(Directory.GetCurrentDirectory()).FullName;
             string resourcesPath = Path.Combine(projectPath, "Resources");
             List<string> vowelsExample = new List<string> { "a", "e", "i", "o", "u" };
             if (vowelsTextBox.Text.Replace(" ", "") == "")
