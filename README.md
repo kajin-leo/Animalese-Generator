@@ -6,7 +6,7 @@ This program requires you to **input the vowels in a sentence all by yourself**,
 
 To achieve better results, you can **leave out some of the vowels** to input. Also, I highly suggest you inputing the vowels **in one sub-sentence only**, at a time. 
 
-**The original resources were extracted from _Animal Crossing: New Horizons_ ROM. **
+**The original resources were extracted from _Animal Crossing: New Horizons_ ROM.**
 
 ### Thanks to: 
 `bars-to-bwav` (By jackz314)
